@@ -1,2 +1,3 @@
 echo $JAVA_HOME
 echo $BUILD_NUMBER
+echo $PACKAGE
